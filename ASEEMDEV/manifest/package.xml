@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>LeadTriggerHelper</members>
+        <members>OpportunityRevenueCalc</members>
+        <members>OpportunityTrigger</members>
+        <members>OpportunityTriggerHelper</members>
+        <members>TriggerHelperTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>LeadTrigger</members>
+        <members>OpportunityTrigger</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>Sales_Representative__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Opportunity.Potential_Revenue__c</members>
+        <members>Opportunity.is_Converted_from_Lead__c</members>
+        <members>Lead.Convert_to_Opportunity__c</members>
+        <members>Lead.Industry</members>
+        <members>Lead.LeadSource</members>
+        <members>Lead.Location__c</members>
+        <members>Lead.Sales_Representative__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>DaysDifferenceValue</members>
+        <members>StandardOpportunityThresholdAmount</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
+        <members>System Administrator</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>Lead Layout (HeyMarket)</members>
+        <name>Layout</name>
+    </types>
+    <version>59.0</version>
+</Package>

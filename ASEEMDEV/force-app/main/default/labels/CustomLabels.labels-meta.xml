@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>DaysDifferenceValue</fullName>
+        <categories>Apex Class</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>DaysDifferenceValue</shortDescription>
+        <value>30</value>
+    </labels>
+    <labels>
+        <fullName>StandardOpportunityThresholdAmount</fullName>
+        <categories>Apex Class</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>StandardOpportunityThresholdAmount</shortDescription>
+        <value>1000</value>
+    </labels>
+</CustomLabels>
